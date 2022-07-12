@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a computer science student from Israel and I'm currently learning Web Development through TheOdinProject
+I'm a Computer Science student from Israel and I'm currently learning Web Development through TheOdinProject
