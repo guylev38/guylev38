@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a high school student majoring in computer science.<br>I'm currently learning web-dev through TheOdinProject.
+I'm a high school student majoring in computer science.<br>
+📖 I'm currently learning web-dev through [TheOdinProject](https://www.theodinproject.com/).
 
 
 # 💻 Tech Stack:
