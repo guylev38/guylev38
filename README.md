@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Guy Levitski</h1>
-
 # 💫 About Me:
 🔭 I’m currently working on some personal projects.<br>🌱 I’m currently learning about low-level programming and better code design.
 
